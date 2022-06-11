@@ -1,0 +1,16 @@
+{
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/galvez/vite-plugin-dates",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vite-plugin-dates",
+  "author": "Jonas Galvez <jonasgalvez@gmail.com>",
+  "description": "Dynamically import date objects as virtual modules",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galvez/vite-plugin-dates.git"
+  },
+  "version": "0.0.1"
+}
